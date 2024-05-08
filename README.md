@@ -4,7 +4,7 @@
 
 Prerequisites:
 
-- Node v12 (recommended), v10 and higher versions should also work.
+- Node v18 (recommended), v10 and higher versions should also work.
 - Yarn (v1 by default, v2 may work but is un-tested).
 - **Note:** You can switch to npm if you want - just generate a lockfile and remove the Yarn one
 
@@ -32,7 +32,7 @@ Requirements:
 
 Please note:
 
-- This project was created with Create React App (with TypeScript support added). You are free to add any tooling at your discretion, if you think it will help you. If you find an issue that is preventing you from doing the task, please contact Sam
+- This project was created with Create React App (with TypeScript support added). You are free to add any tooling at your discretion, if you think it will help you. If you find an issue that is preventing you from doing the task, please contact Steve
 - You should consume the order data directly as raw JSON. This is a purely client-side exercise.
 - You are not being marked on the visual output. `antd` is included out of the box - it is recommend to use standard antd components. You may wish to write a small amount of CSS for the basic page layout.
 - It's expected that the exercise will take 30-60 minutes
